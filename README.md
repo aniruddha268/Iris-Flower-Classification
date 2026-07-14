@@ -107,3 +107,17 @@ The trained model achieved:
 - ✅ 100% Accuracy on the test dataset
 - ✅ Correct classification of all test samples
 - ✅ Confusion Matrix visualization
+
+## 📷 Project Screenshots
+
+### Pairplot
+
+![Pairplot](screenshots/pairplot.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+---
